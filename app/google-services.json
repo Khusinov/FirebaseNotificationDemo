@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "860100559021",
-    "project_id": "fir-notificationdemo-6ba89",
-    "storage_bucket": "fir-notificationdemo-6ba89.appspot.com"
+    "project_number": "599007514892",
+    "project_id": "fir-demo-f9ad5",
+    "storage_bucket": "fir-demo-f9ad5.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:860100559021:android:d8053ee6746c66186f4624",
+        "mobilesdk_app_id": "1:599007514892:android:f1ef46e944c655e555b929",
         "android_client_info": {
           "package_name": "uz.khusinov.firebasenotificationdemo"
         }
       },
       "oauth_client": [
         {
-          "client_id": "860100559021-71ho4rrvea01eukd49fvj9ooson9tg20.apps.googleusercontent.com",
+          "client_id": "599007514892-o9ckdt3dobngcs3dpqnic3e5j5vlb6r3.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAoxG3qNJZHECa3XL9qfTvcgQu9nxdLXgw"
+          "current_key": "AIzaSyB0tzr3955DCMZOiO5hXdtgL6A4kwtiJpk"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "860100559021-71ho4rrvea01eukd49fvj9ooson9tg20.apps.googleusercontent.com",
+              "client_id": "599007514892-o9ckdt3dobngcs3dpqnic3e5j5vlb6r3.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
