@@ -22,12 +22,5 @@ class MainActivity : AppCompatActivity() {
             Log.d(TAG, "onCreate: ${task.result}")
         })
 
-        // test
-
-
-
-
-
-
     }
 }
