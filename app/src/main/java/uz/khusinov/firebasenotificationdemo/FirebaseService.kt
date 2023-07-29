@@ -82,9 +82,6 @@ class FirebaseService : FirebaseMessagingService() {
             createNotificationChannel(manager)
         intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP)
 
-// create big style notification if we need
-//        val bigStyle = NotificationCompat.BigTextStyle()
-//        bigStyle.bigText(body).setBigContentTitle(title)
 
         val defaultSoundUri: Uri = RingtoneManager.getDefaultUri(RingtoneManager.TYPE_NOTIFICATION)
 
